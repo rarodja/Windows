@@ -1,0 +1,11 @@
+Delete Folders: ADMIN in CMD
+
+----------
+
+RMDIR /S /Q "%PROGRAMDATA%\Microsoft\Windows\Start Menu\Programs\Administrative Tools"
+RMDIR /S /Q "%PROGRAMDATA%\Microsoft\Windows\Start Menu\Programs\System Tools"
+RMDIR /S /Q "%APPDATA%\Microsoft\Windows\Start Menu\Programs\System Tools"
+RMDIR /S /Q %ONEDRIVE%
+Exit
+
+----------
