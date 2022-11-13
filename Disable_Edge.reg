@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge]
+"AutofillAddressEnabled"=dword:00000000
+"AutofillCreditCardEnabled"=dword:00000000
+"BrowserAddProfileEnabled"=dword:00000000
+"BrowserSignin"=dword:00000000
+"HubsSidebarEnabled"=dword:00000000
+"ClearBrowsingDataOnExit"=dword:00000001
+"EdgeCollectionsEnabled"=dword:00000000
+"EdgeShoppingAssistantEnabled"=dword:00000000
+"PasswordManagerEnabled"=dword:00000000
+"PaymentMethodQueryEnabled"=dword:00000000
+"ShowMicrosoftRewards"=dword:00000000
+"VerticalTabsAllowed"=dword:00000000
